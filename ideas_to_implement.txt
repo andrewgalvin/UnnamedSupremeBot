@@ -1,0 +1,7 @@
+Generate License Key
+	check to see if file license_key exists
+		if exists get license key from file
+		use that license key to open
+	when user inputs license key and clicks button
+	save to file called license_key
+	
